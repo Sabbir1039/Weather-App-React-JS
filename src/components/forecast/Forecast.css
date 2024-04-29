@@ -1,0 +1,38 @@
+.forecast-data {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.forecast-title {
+    text-align: center;
+    font-weight: 600;
+    border-bottom: 2px solid #fff;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.daily-item {
+    padding: 6px 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 4px;
+    background: #fff;
+    border-radius: 8px;
+}
+
+.daily-item img {
+    width: 40px;
+    height: 40px;
+}
+
+.daily-item p {
+    padding: 2px 0;
+    margin: 0;
+}
+
+@media (max-width: 400px) {
+    .forecast-data {
+        display: flex;
+    }
+}
