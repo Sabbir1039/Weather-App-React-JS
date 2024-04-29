@@ -1,6 +1,6 @@
 ## Preview
 
-<img alt="screenshot" src="./weather-app.png" height="730px">
+<img alt="screenshot" src="./weather-app.png" height="520px">
 
 # Weather App with ReactJS and Vite
 
