@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { geo_url, geo_options } from "../../api/api";
+import { geo_url, geo_options } from "../../api";
 import { AsyncPaginate } from 'react-select-async-paginate';
 
 

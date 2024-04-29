@@ -4,7 +4,7 @@ import './App.css'
 import Search from './components/search/Search';
 import WeatherData from './components/weatherData/WeatherData';
 import Forecast from './components/forecast/Forecast';
-import { weather_api_url, weather_api_key } from './api/api';
+import { weather_api_key, weather_api_url } from './api';
 
 function App() {
 
